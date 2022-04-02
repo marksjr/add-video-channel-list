@@ -3,4 +3,4 @@ Add channels or videos to a list with player
 
 Demo Video: https://youtu.be/CirvBKbGvNM
 
-You can add a list of hls channels or videos and play without using database, in protect.php file you can add your domain to block iframe on unauthorized domains.
+You can add a list of hls channels(hls-m3u8) or videos (mp4) and play without using database, in protect.php file you can add your domain to block iframe on unauthorized domains.
